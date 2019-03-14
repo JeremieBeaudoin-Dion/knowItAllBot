@@ -1,0 +1,329 @@
+,,Effective Sorcery Score,,,,,,,
+,,6,,,,"Interaction,  Alteration,  Prohibition,  Compulsion,  Creation,  Expression, Transportation.",,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Storyteller,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,5
+,Focus:,Interaction Charm (small cubic item with triangular holes),,,,,,Cost:,2
+,Duration:,18,3 turns (15 seconds) per Sorcery Score before offering a new defense,,,,,,
+,"When you cast the spell, then sit down and start talking, each creature able to understand your language and hear you talking with any clarity must take no other action than sitting down and listening to you, captivated by your words. This effect remains active as long as you keep talking with no pause of more than two seconds. Creatures entering the effect after it has started are not subjected to it. Once every duration, on their turn, any affected creature can try a Wisdom defense against your Influence Score to end the effect of the spell on them. When a creature previously affected by the spell takes an action other than sitting down, is moved or is threatened, the spell's effect stops for everyone. At the start of the spell, you can modulate the volume of your voice to encompass a larger or smaller area. Creatures that succeeded on a Wisdom defense realise the effect was supernatural. The others can only use their normal judgement to determine that.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Halt,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,6
+,Focus:,Prohibition Charm (small item made of alternating concentric rings),,,,,,Cost:,3
+,Defense:,6,Sorcery Score,,,,,,
+,"When you cast this spell, you must point toward a creature you can see within 20 meters. That creature can no longer take actions that would change their physical location by more that half a meter. At the end of each of their turns, they can make a Resolve defense to permanently cancel the effect. When something external moves them by 2 meters or more, the effect ends.
+Spending a quick action to think about walking forward while trying to take a step backward gives a bonus of +2 the next defense.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Question,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,7
+,Focus:,Compulsion (small star-shaped item with intricate curving lines),,,,,,Cost:,3
+,Defense:,6,Sorcery Score,,,,,,
+,"When you cast this spell then ask a question to a creature you choose in a language and an manner that they understand, they are magically compelled to answer truthfully. The effect lasts 5 seconds. They can make a Resolve defense to resist the effect. If their defense fails, they must answer your question as directly as possible and can only tell what they perceive to be true. If it succeeds, they may choose to remain silent for the duration of the effect or not answer your question, but they can't lie. Unless they never desired to tell something other than the truth, they always know the magical nature of the effect. You can easily tell when the spell's effect ends, regardless of their defense.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Hide,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,6
+,Focus:,Alteration Charm (small spheric item with intricate lines on its surface),,,,,,Cost:,4
+,Defense:,6,Sorcery Score,,,,,,
+,Defense:,4,Sorcery Score minus 2,,,,,,
+,"When you cast this spell, a 1 meter radius sphere centered around you that distorts light appears, making you and your immediate belongings invisible. The sphere is immobile and vanishes when something solid passes through it. When a creature has any indication of your presence, they can spend 1 tempo to try to perceive the limits of the sphere and localize you in a specific 2 meter hex. This offers them a Vigilance defense against your Sorcery Score (-2 if they are 6 meters away or less).",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Song of Silence,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,5
+,Focus:,Expression Charm (small cylindrical item with lines along the length),,,,,,Cost:,2
+,Range:,24,Four meters times Sorcery Score,,,,,,
+,"When you cast this spell, a worldless song lodges itself in your throat and stays there as long as you keep singing. Maintaining the song spends a quick action each turn and costs 1 Stamina every 30 seconds. Many things can break your concentration on the song, at the GM's discretion, including receiving damage. In normal circumstances, receiving more damage than your Resolve will make you drop the song. The song is clearly audible within the range of the spell but normal acoustics may reduce or enhance that distance. Creatures hearing the song can't hear anything else. All other soundborne magic and effects fail to affect anything in the zone.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Elven Side-Step,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,5
+,Focus:,Transportation Charm (small item in the shape of a 3D square cross),,,,,,Cost:,2
+,Range:,24,Four times Sorcery Score,,,,,,
+,"When you cast this spell, enchant a pair of boots or shoes you touch. For the next hour, the creature wearing them can choose, once, to use a Step action to side step then teleport anywhere they can see within the range that is no more than one meter higher or lower than they are, even in a creature's controlled space. Damaging the enchanted items in any way ends this effect.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Elven Prison,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,6
+,Focus:,Prohibition Charm (small item made of alternating concentric rings),,,,,,Cost:,3
+,Defense:,6,Sorcery Score,,,,,,
+,Duration:,36,One minute times Sorcery Score squared ,,,,,,
+,"When you cast this spell, an invisible barrier is created in a seven meters radius circle. It appears wherever you want, as long as at least one point within the circle is two meters away from you or less. Creatures can't willingly choose to cross it by any mean. Because they can't even try to move away from it, creatures unaware of the spell don't lose an action when they want to do so. Creatures inside the barrier can very difficulty take actions that would directly move another creature outside of the area (they must make a defense when they would try; a failed defense lasts one minute, a successful one lasts one turn). A creature standing at the edge of the circle can also try to ""May I be free? I ask you three times!"" out loud in their first language to get access to the same defense to be able to choose to move out themselves.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Respite,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,6
+,Focus:,Alteration Charm (small spheric item with intricate lines on its surface),,,,,,Cost:,1
+,Duration:,10,Sixty minutes divided by Sorcery Score (before waking up),,,,,,
+,"When you cast this spell, the creature holding the Charm gains the ability to fall asleep at will. After short duration sleeping with the Charm on their person, they wake up. with all the benefits of a full night's rest except the recovery of Morale. The spell ends when the wearer wakes up or after 60 minutes.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Pixie Hand,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,5
+,Focus:,Creation Charm (small item made of thin triangles creating a diamond shape),,,,,,Cost:,2
+,Range:,24,Two meters times Sorcery Score,,,,,,
+,"When you cast this spell, choose one of your hands and a point in space that you can see within range. The shape of a hand forms in smoke and glimmer at that point. It mimmics the position and all the movements of your chosen hand. It has your Strength and stills, though you may have a penalty to rolls that require precision if you try to make them through a hand that is more than a few meters away. The hand can move and interact with things, as long as it is strong enough, but the second it hits something heavier than it can move and tries to continue going through, it vanishes. It always stays at the starting distance and angle from you. If you use it to make melee attacks with a weapon, it breaks when a Parry or Block defense makes an attack fail.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Pixie Twin,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,6
+,Focus:,Creation Charm (small item made of thin triangles creating a diamond shape),,,,,,Cost:,3
+,Durability:,6,Sorcery Score damage needed to break,,,,,,
+,Range:,24,Four meters times Sorcery Score,,,,,,
+,"When you cast this spell, choose a point in space that you can see within range. Your shape, including everything you are wearing and holding, forms in smoke and glimmer at that point. You gain the ability to control it as if it were your own body (your senses still come from your body). It has all your Attributes. It vanishes either when you choose to act in your own body or when it receives a specific amount of damage at once. It can't Parry or Block. It can attack and act as effectively as you as long as you have a good line of sight.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Twilight Shard,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,6
+,Focus:,Compulsion (small star-shaped item with intricate curving lines),,,,,,Cost:,3
+,Duration:,30,Five minutes times Sorcery Score,,,,,,
+,Defense:,6,Sorcery Score,,,,,,
+,"When you cast this spell, take an item with one hand and imagine any other object of similar volume. For the duration, everyone except you is forced to act as if they perceived the item to be the new object. Creatures that inspect it visually with any reason to doubt their senses get to make a Wisdom defense to confirm that something supernatural is at play (they still can't see through the false image). Each new time a creature physically touches the item, they can retry the defense. At the end of the duration, anyone who payed any attention to the item and anyone prompted to remember it now remembers it for what it was and sees their behavior and thoughts as unnatural.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Deny Magic,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,7
+,Focus:,Prohibition Charm (small item made of alternating concentric rings),,,,,,Cost:,4
+,Range:,8,One meter times Sorcery Score plus three (rounded down to two meters increments),,,,,,
+,Defense:,6,Sorcery Score,,,,,,
+,"This spell can be casted as a quick action but still counts toward your maximum of one spell per round. When you cast this spell, choose a creature that is casting a spell or using a spell-like ability within range. They must make a Resolve defense or lose their action (still spending Morale) and be unable to try that action again this turn. Faerie-Aligned spells give +2 to their caster's defense. Spell-like abilities give +4. If they succeed on their defense, nothing happens. If the same creature fails their defense against this effect twice within one minute without succeeding once, they lose the ability to cast the spell they were attempting to cast until they sleep. When you cast this spell, you may prohibit the casting of a specific spell out loud. If you call the name of the spell being cast, you gain a +2 bonus to your roll. If you call out the wrong one, you get a -2 penalty.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Song of Joy,,,,,,,,
+,School:,Noble Magic,,,,,,Level:,5
+,Focus:,Expression Charm (small cylindrical item with lines along the length),,,,,,Cost:,3
+,Range:,24,Four meters times Sorcery Score,,,,,,
+,"When you cast this spell, a worldless song lodges itself in your throat and stays there as long as you keep singing. Maintaining the song spends a quick action each turn and costs 1 Stamina every 30 seconds. Many things can break your concentration on the song, at the GM's discretion, including receiving damage. In normal circumstances, receiving more damage than your Resolve will make you drop the song. The song is clearly audible within the range of the spell but normal acoustics may reduce or enhance that distance. Creatures hearing the song feel joy over any other emotion. They are still able to think normally but are unaffected by the demoralized or apathetic states, as well as by many emotion-based magic. They receive no Morale damage from triggering their traumas and other such situations (but still feel pain). The effect very obviously originates from the song. Creatures not used to it may receive double the Morale damage they would have received from traumatic events after the effect of the song ends due to the cognitive dissonance associated with the experience of joy paired with the experience.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Blackbird,,,,,,,,
+,School:,Wild Magic,,,,,,Level:,6
+,Focus:,"A representaton of you animal totem, plant totem and weather totem",,,,,,Cost:,6
+,Range:,180,5 meters times Sorcery Score squared (before the communication stops),,,,,,
+,"When you cast this spell with a closed fist then open your hand, a small black bird appears inside it. It is considered friendly to you. You can mentally send it commands (that it obeys perfectly) and you share its vision and hearing while it is within range. The bird exists until it dies. It has all normal biological needs and functions of a normal bird, and has 2 Health. You perceive through the bird's senses with your normal attributes and skills and it does not interfere with your normal senses. While outside of your range, the bird tries to follow your last instructions as best as a bird can or to return to you. Summoning a second bird releases the first one from your control.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Totemic Might,,,,,,,,
+,School:,Wild Magic,,,,,,Level:,6
+,Focus:,"A representaton of you animal totem, plant totem and weather totem",,,,,,Cost:,4
+,Bonus:,4,Sorcery Score divided by two plus one,,,,,,
+,"When you cast this spell, a creature of your choice that you can see within 12 meters gets enchanted. The enchantment creates moving shadows on the ground around that creature that mimic the shape of your animal totem. While that creature is enchanted, it receives a bonus to Strength, Speed, Agility, Dexterity or Vigilance, depending on which attribute corresponds best with your animal totem's themes. The echantment lasts two minutes per point of the affected attribute of the target (after bonus). The creature does not need to remain in range for the effect to persist.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Speak with Animal,,,,,,,,
+,School:,Wild Magic,,,,,,Level:,5
+,Focus:,"A representaton of you animal totem, plant totem and weather totem",,,,,,Cost:,3
+,Range:,6,Sorcery Score in meters (rounded down to 2 meters increment),,,,,,
+,"When you cast this spell and designate an animal you can see withing range, you permanently grant to both the animal and yourself the ability to understand each other no matter the language you are speaking. This doesn't change the intelligence of the animal or its disposition toward you. It allows you to use social skills instead of Taming skills to interact with the animal but does not necessarily makes that easy.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Faerie Lantern,,,,,,,,
+,School:,Wild Magic,,,,,,Level:,6
+,Focus:,"A representaton of you animal totem, plant totem and weather totem",,,,,,Cost:,3
+,Defense:,6,Sorcery Score,,,,,,
+,Number:,6,Sorcery Score,,,,,,
+,"When you cast this spell, you choose where a number of faerie lanterns appear over empty ground you can see within 100 meters. Faerie lanterns are small swarms of fireflies that give off light light small lamps. They don't move out of their original location. Creatures seeing the faerie lanterns can make a Wisdom defense against your Sorcery Score. If their defense doesn't succeed, they must spend one tempo each turn walking toward the nearest faerie lantern and no action moving away from it. This ceases working if their security is visibly threatened or whenever they take damage. Any creature moving into or starting a turn within a faerie lantern's space takes 3D+2 heat based damage with penetration on a location of their choice. Faerie lantern disperse through normal means of dispersing fireflies, 30 minutes after the casting of this spell or, if the spell was cast at dusk, at dawn.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Whisperwind,,,,,,,,
+,School:,Wild Magic,,,,,,Level:,5
+,Focus:,"A representaton of you animal totem, plant totem and weather totem",,,,,,Cost:,4
+,Range:,10,A fifth of a League per Sorcery Score squared plus three,,,,,,
+,"When you cast this spell, you can talk aloud a into a breeze or any perceptible wind to carry a request to the nature spirits in that direction. The request can be either of a favor, a answer or a message. Your request covers ground at the speed of the wind. If you request a message, you must describe your unique target and the wind will carry one or two sentences to them for you. If you request an answer you can ask for a simple question that the wind or simple forces of nature could answer, the answer arrives immediately to you when your question has travelled enough to reach a conclusion. If you request a favor, some small act of the wind, the trees or small animals will be performed when the favor arrives, as long as it doesn't cost them too much. Casting this within fae-touched areas offers clearer answers and greater favors.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Reclaim,,,,,,,,
+,School:,Wild Magic,,,,,,Level:,5
+,Focus:,"A representaton of you animal totem, plant totem and weather totem",,,,,,Cost:,1
+,Radius:,24,Four meters times Sorcery Score,,,,,,
+,"When you cast this spell, touch the ground, in a radius around you, rot spreads to dead matter. Flesh and dead plants are consumed. The solid parts remaining are covered by a great variety of mushrooms, some are delicious and some are toxic to eat. A Survival target roll of 7 is needed to get edible or toxic mushrooms out of them. Any wood that touches the ground gets rotten up to one meter above ground, making it weak and easily breakable. The transformation happens within 5 seconds. Dead creatures are unrecognisable after this effect. All smell or risk of infection is removed from rotting corpses. ",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Call Rain,,,,,,,,
+,School:,Wild Magic,,,,,,Level:,6
+,Focus:,"A representaton of you animal totem, plant totem and weather totem",,,,,,Cost:,4
+,Radius:,1000,Twenty-five meters times Sorcery Score squared plus a hundred,,,,,,
+,"When you cast this spell, rain clouds gather above your head and over an area around you for one minute. The rain has a one in three chance of being of medium intensity, another one of being of high intensity and one in three of being a thunderstorm. The clouds then follow normal weather patterns. If it is already raining when you cast this spell, the effect automatically creates a thunderstorm.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Regal Perfume,,,,,,,,
+,School:,Wild Magic,,,,,,Level:,6
+,Focus:,"A representaton of you animal totem, plant totem and weather totem",,,,,,Cost:,2
+,Defense:,7,Sorcery Score plus two,,,,,,
+,"When you cast this spell, choose an animal you can see. You are covered in an enchanted scent that prevents all creatures of the same species to willfully harm or hinder you in any way. Any animal of that species that would want to do so must succeed on a Resolve defense. This defense can only be tried again when it receives a successful order from a humanoid. Intelligent creatures are unaffected by this spell. Fae-touched or fae creatures get up to +3 to the difficulty of their defense. Animals closely related to your animal totem get -6 to the difficulty of their defense. The effect ends when something washes off the spell or after 12 hours. ",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Rootbind,,,,,,,,
+,School:,Wild Magic,,,,,,Level:,7
+,Focus:,"A representaton of you animal totem, plant totem and weather totem",,,,,,Cost:,4
+,Grab:,7,Sorcery Score plus three,,,,,,
+,Wrestle:,10,Sorcery Score plus three,,,,,,
+,"When you cast this spell, designate a creature, an object or a point on the ground. As long as the ground is not solid stone or harder and is connected to the earth, three large roots appear from below the ground and try to grab and restrain everything standing inside their 2 meter space. They make a maneuver attack on every creature in the area, automatically wrestling them if they grab. The only proactive defense available is Dodge. The space counts as level 2 difficult terrain. While wrestling a creature, the roots continue to try to maintain them in place, but they don't make new attacks or maneuvers. They act during your turn and, while they are wrestling an enemy, do the following. If they are restrained, they Break Free. Then, if no one is restrain, they try to Restrain, then, if they are restraining an opponent, they make a crushing unarmed attack that can't target the head and that deals 5D+4. 
+The roots are considered like a single zone creature with 40 Health and an Armour of (6/6/6) and a Toughness of 8. At the first Wound level, their Wrestling value is dropped by half. After the second, they can no longer wrestle.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Ghost Pain,,,,,,,,
+,School:,Blood Magic,,,,,,Level:,6
+,Focus:,Three scar dots on the back of your head,,,,,,Cost:,2
+,Defense:,6,Sorcery Score,,,,,,
+,"When you cast this spell, a creature of your choice you can see withing 16 meters is affected by an illusory gruesome wound on the body part of your choice. All their senses tell them the wound is real, dealing 12D + 3 virtual damage to them. The illusion lasts 20 minutes. The Wisdom defense against the illusion is against your Sorcery Score.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Ghostly Chariot,,,,,,,,
+,School:,Blood Magic,,,,,,Level:,6
+,Focus:,Two long scars from the middle of your shins to the top of your feet,,,,,,Cost:,7
+,Speed:,"1,5",A quarter of a league times Sorcery Score per hour,,,,,,
+,"When you cast this spell and execute two four legged herbivores between the size of a deer and the size of a large horse, they spirits rise into translucent shadowy shapes. A glass chariot is summoned from nothing and is bound to the spirits. The spirits will listen to the commands anyone sitting inside the chariot will tell them at the best of their ability. The chariot is made entirely out of polished glass and is durable but very brittle. Any strong impact shatters it and frees the spirits. It has no wheels and two seats. It hovers over the ground, making no sound and ignoring most difficult terrain, but does not go over water nor go up or down steep inclines. The spirits never tire or require any food. The spirits go as fast with a fully loaded chariot than with an empty one, can pull the equivalent of two people and considarable luggage and go at medium speed.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Nightmare Monster,,,,,,,,
+,School:,Blood Magic,,,,,,Level:,8
+,Focus:,Five slightly curved scars mimicking claw marks over your left bicep,,,,,,Cost:,6
+,Defense:,6,Sorcery Score,,,,,,
+,Targets:,6,Sorcery Score,,,,,,
+,"When you cast this spell, designate a number of creatures you can see withing 32 meters as targets. In the centerpoint between them appears an illusory beast of terrifying size and appearance. It attacks anyone that gets near. It cannot be hurt and doesn't spend resources, but acts normally, right after you in the initiative order. It can make rampaging flurry attacks, normal attacks or move actions with a Speed of 8. It can cross any obstacle other than solid walls with no penalty. It attacks with 10 dice and deals 12D+6 virtual damage on a hit. It attacks the nearest target and the target with the least Health remaining. The creature and its virtual damage exist for 20 minutes. The creature cannot leave a radious of 32 meters around where it was created. If the targets doubt the reality of the damage or the creature, they get to make their normal defense against virtual damage as soon as they touch or are touched by the creature.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Daily Bread,,,,,,,,
+,School:,Golden Magic,,,,,,Level:,6
+,Focus:,Flat rectangular prism purple quartz,,,,,,Cost:,4
+,Feeds:,6,One person per Sorcery Score,,,,,,
+,"When you cast this spell, a loaf of black bread forms in 30 seconds in front of you. It is extremely nutritious and can feed people for a full day to keep them healthy (this does not include hydration). It grows stale in three days and loses its properties.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Freedom,,,,,,,,
+,School:,Primal Magic,,,,,,Level:,6
+,Focus:,Nothing,,,,,,Cost:,2
+,Bonus:,9,Sorcery Score times 1.5,,,,,,
+,"When you cast this spell and touch a creature, that creature is instantly freed from all restraints, chains, grappling, etc... Things that we restraining it that could be taken off without breaking fall to the ground and things that could not shatter in pieces. That creature gains a bonus to all defenses against any type of restraint effect for one round.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Take,,,,,,,,
+,School:,Primal Magic,,,,,,Level:,5
+,Focus:,Nothing,,,,,,Cost:,1
+,Range:,24,Four meters times Sorcery Score,,,,,,
+,Defense:,5,"Sorcery Score minus one (for Strength, Agility or Speed defenses)",,,,,,
+,Defense:,8,Sorcery Score plus two (for the collision attack),,,,,,
+,"When you cast this spell, choose an non-living object within range that you can see that isn't heavier than a weight category 2 heavy item and extend an empty hand toward it. It is rapidly pulled into your hand. If the item is held by a creature, they may try a Strength defense to keep hold of it. If the item is worn or tied to a creature, they might try an Agility or Speed defense to avoid falling prone. If the item is heavier than permitted, it shakes slightly and stays in place. If the item collides with something while on its way, it deals damage. The damage is 4D+6 for blunt items, 6D+6 for sharp items and has Impact for heavy items. It must move at least 4 meters to deal damage. After colliding, it stops moving. Creatures seeing it coming can use any melee defense if it is larger than a javelin and any range defense if it is not against it. It always lands into your own hand without danger.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Static Shock,,,,,,,,
+,School:,Primal Magic,,,,,,Level:,7
+,Focus:,Nothing,,,,,,Cost:,5
+,Number:,4,Half your Sorcery Score plus one,,,,,,
+,"When you cast this spell then touch either a metal item or a collection of metal items touching each other, you transfer a powerful static electric charge to those items. This charge can never be conducted to you or items the metal was touching at the moment of casting the spell. A discharge happens when the item makes contact with solid or liquid matter that at least acceptably conductive (including flesh, wood, etc). The charge deals 5D+5 internal damage. That damage ignores armour if the item touched skin directly and has penetration otherwise. It discharges ont succesfull attacks as well as blocked or parried attacks. If a single item was charged, in can discharge a number of times equal to your Sorcery Score. If many were, they all discharge once and up to the same number can be charged by the spell. After 10 minutes, the item(s) discharge all their remaining lightning charges to anything they are touching, yourself included.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Audience,,,,,,,,
+,School:,Primal Magic,,,,,,Level:,8
+,Focus:,Nothing,,,,,,Cost:,7
+,Duration:,9,Fifteen seconds times Sorcery Score squared (counted in minutes),,,,,,
+,"When you cast this spell, you must cast it on a two meter wide circle drawn on the ground and formally invite a creature by name to join you. During your invitation, you must specify a point in time, present or past, and you must speak in a language that creature would be able to understand at that point in time. A perfect copy of that creature from that point in time, with the same body and memories, appears inside the circle. It knows it has been summoned and, if intelligent enough, it knows it is a copy. It can't perform magic nor can it affect things outside the circle. If it crosses the circle, it vanishes. It also vanishes at the end of the duration or if the circle is altered.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Dream Tea,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,3
+,Focus:,The ingredients,,,,,,Cost:,3
+,Volume:,6,250 ml times Sorcery Score (counted in 250 ml servings),,,,,,
+,"When you cast this spell, enchant a portion of dream tea mix. When that portion is put in hot water, it grants magical proterties to the drink that last until the water reaches ambient temperature. The magic can spread up to a maximal volume of tea. People who drink a 250 ml portion of that drink get progressively calmer and more tired over an hour. After an hour, it is difficult (but not impossible) to stay awake. For the next eight hours, they regain 1 Health per hour and the effects of all poisons and illnesses are postponed until after they wake up. Nothing other than touch wakes people up from that sleep, and doing so deals 2+2D Morale damage to the sleeper. That sleep does not take comfort or time of day into account for Morale recovery. When someone drinks this tea a second time within a week, they don't recover Health during the following sleep.
+The dream tea mix is made of dried valerian and ironwort held together with honey.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Golden Mead,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,3
+,Focus:,The ingredients,,,,,,Cost:,5
+,Quantity:,18,500 ml times Sorcery Score plus 1500 ml (counted in 250 ml servings),,,,,,
+,"When you cast this spell, drop a pinch of gold flakes in mead that has never been bottled and stir it, then bottled that mead. The mead gains a shimmering appearance permanently. From now on, whenever someone goes to sleep after drinking at least 250 ml of that mead in the last 12 hours, they regain a extra 1 Health and 1 Morale during their sleep. The pinch of gold flakes needed is equivalent to 10 percent of a golden Enne in mass.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Snake Oil,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,3
+,Focus:,The ingredients,,,,,,Cost:,4
+,Quantity:,5,175 ml times Sorcery Score plus 500 ml (counted in 250 ml servings),,,,,,
+,"When you cast this spell, finish mixing the ingredients for a batch of snake oil. It becomes enchanted. When someone rubs themselves with enchanted oil (which takes 1 minute while mostly naked and uses a 250 ml portion of snake oil), their skin becomes slightly smoother and their veins become greener and visible as long as they are oily (up to 8 hours). While this effect is active and the character gets a Wound to a limb that had none, that Wound is marked as ""healing"". Wounds marked as healing are un-marked if they are worsened when you are not affected by snake oil. At any time afterward, whenever that character recovers a total of 6 Health (even over a long period) a random Wound marked as ""healing"" is lessened by 1 level.
+Snake oil is made of the total volume in olive oil, plus at least 10 ml of snake venom of any kind and skin from a whole snake, finely chopped. A Science roll might be require to extract those ingredients that varies on the snake and its state.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,True Love Potion,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,3
+,Focus:,The ingredients,,,,,,Cost:,2
+,Defense:,6,Sorcery Score,,,,,,
+,"When you cast this spell, designate a 50 ml portion of love potion. It becomes enchanted. When a creature drinks the enchanted potion, for the next six hours divided by their Size, they become sexually attracted to the first creature of its species it sees. If they have reasons to doubt the effect is supernatural (including because the target of their attraction is unusual for them), they can make a Wisdom defense to feel with certainty that something magical happened. 
+The potion is a concoction that needs basic cooking utensils and a heat source to prepare. It takes a base time of 30 minutes to assemble and requires the following ingredients: water, three common templebell mushrooms, a pinch of cinnamon, any alcohol, heart meat of any creature and basic fragrant herbs. The potion, once enchanted, tastes sweet and can be mixed in with other drinks. The Science roll difficulty required to prepare it is 4.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Speak Ill,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,3
+,Focus:,A pouch filled with exactly 13 pebbles of any size,,,,,,Cost:,2
+,Range:,36,Sorcery Score squared in meters (rounded down to the lowest 2 meters increment),,,,,,
+,"When you cast this spell, you must speak out loud some insult or hurtful words about a person. Those words must be something with which they might indentify on some level. The power of the insult depends on whether it is generic (understandable by someone interacting with them for the first time), personnal (understandable by someone who knows them) or intimate (known only people close to them). If the person is in range, the spell afflicts them with a burning headache. That headache gives them -1, -2 or -3 to all actions and defenses and deals 1+1D, 2+2D or 3+3D damage at the onset and every 10 minutes afterward. The headache subsides after 5 minutes of total calm in a soothing environment. The person affected by the spell can try, when they choose, once every ten minutes, to make a Resolve defense against 6, 7, 8 to ignore the drawback of the headache for 30 seconds.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Spell Ward,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,4
+,Focus:,"Any black iron item with the ""closed eye"" symbol drawn on it",,,,,,Cost:,4
+,Difficulty:,10,Sorcery Score plus four,,,,,,
+,"This spell can be casted as a quick action but still counts toward your maximum of one spell per round. When you cast this spell, touch your spell focus while you see someone cast a spell of Noble Magic, Wild Magic or Blood Magic, you may make a defense with the prescribed target against the Sorcery Score of the caster. If you succeed, any effect directly aimed at you or directly enchanting you from that spell is cancelled for the entirety of its duration. This doesn't affect most elemental damage that happen to hit you, but affects most mental effects, all spells targetting you directly, all alterations on yourself, etc... It nullifies the will of any summoned creature, plant or object to harm you precisely but doesn't stop physical things created or called through magic to interact with your body normally.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Fragrant Poultice,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,3
+,Focus:,The ingredients,,,,,,Cost:,3
+,Healing:,5,Half of Sorcercy Score plus two,,,,,,
+,"When you cast this spell, pour a portion of fragrant poultice into the wounds of a creature. If you do so while trying to stabilize their wounds, you gain +2 to your Science roll to do so. After that, you must let the poultice in place four 48 hours. At the end of that period, if the poultice was applied correctly and the wound onto which it was administered was stable and the mixture wasn't washed away by friction or water, the character is healed some Health. A single creature can't benefit from the healing of more that one poultice at a time.
+The poultice is a concoction that needs basic cooking utensils to prepare. It takes a base time of 10 minutes to assemble and requires the following ingredients: wet clay, cabbage leaves, darkroot shavings and fragrant laurel leaves. The Science roll difficulty required to prepare it is 3.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Black Blade,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,4
+,Focus:,A piece of charcoal,,,,,,Cost:,4
+,Durability:,3,Two hits times Sorcery Score before becoming fragile,,,,,,
+,"When you cast this spell, you can draw the likeness of a knife on a person's skin with the piece of charcoal. It stays there permanently as a tattoo. Whenever they want, that creature can touch the drawing and summon a black obsidian knife from it. It is very sharp and short but very brittle, and becomes fragile after hitting hard surfaces a number of times. It has the same characteristics as normal knife otherwise, but when fragile, it has a 2/3rds probability of breaking with any impact. Drawing the blade makes the tattoo vanish. A person can only have one black blade drawn on them at once.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Wolf Ward,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,3
+,Focus:,A wolf pelt,,,,,,Cost:,5
+,Duration:,12,Two weeks (16 days) times Sorcery Score,,,,,,
+,"When you cast this spell, dip the fur of the pelt in olive oil and enchant it. The pelt becomes enchanted. Anyone wearing the pelt can't be smelled or heard by wolves, no matter what they do. The enchantment resides in the oily texture of the fur and can be washed off by some heavy water or friction.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Fae Ward,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,2
+,Focus:,The ingredients,,,,,,Cost:,2
+,Duration:,18,Thirty seconds times Sorcery Score squared (counted in minutes),,,,,,
+,"When you cast this spell, enchant a warding candle. When lit, that candle burns of a set duration. During that time, Slenders, Howlers and Predators within a 20 meter radius find the smell abhorent. The first time each day they smell it they receive 4+4D Morale damage. While in the area, they receive a -2 penalty to all rolls associated with actions other than try to get away from it. The candle loses its effect once once blown out, regardless of the duration.
+The warding candle is a wax candle mixed with equal parts dried garlic, salt and iron powder. The science roll necessary to mix it is 3 and it requires a heat source to melt the wax.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Spirit Ward,,,,,,,,
+,School:,Folk Magic,,,,,,Level:,2
+,Focus:,Salt,,,,,,Cost:,1
+,Length:,24,Four meters times Sorcery Score,,,,,,
+,"When you cast this spell, enchant a line of salt on the ground of a certain maximum length. Ghosts and spirits can't go through that line while it remains unbroken.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Nausea,,,,,,,,
+,School:,Blood Magic,,,,,,Level:,5
+,Focus:,Two diagonal scar lines on your chest that meet pointing upward,,,,,,Cost:,3
+,Defense:,5,Sorcery Score minus one,,,,,,
+,Range:,12,Two meters times Sorcery Score,,,,,,
+,"When you cast this spell, all creatures within a 5 meter radius circle centered in range must make a Size defense. Those that fail start violently retching a thick black substance. While they are, they are considered distracted and can take no other action that a single quick action on their turn. At the end of their turn, they receive 1+1D Morale damage, spend 15 Stamina (affected by Adrenalin) and go back to normal. Whether they succeed or fail on their defense, all creatures affected become nauseous (-1 to most proactive rolls of Fighting, Athletics, Acrobatics, Wrestling, Aim and Running). They can choose, on their turn, to spend the turn retching to end the effect. After each turn spent nauseous but not retching, they lose 1 Health, 1 Morale and 1 Stamina.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Take Vigour,,,,,,,,
+,School:,Blood Magic,,,,,,Level:,5
+,Focus:,One scar along the inside of your left middle finger,,,,,,Cost:,2
+,Range:,6,One meter times Sorcery Score (rounded down to two meters increments),,,,,,
+,"When you cast this spell, all creatures within range lose 13 Stamina (bypassing Adrenalin). You gain as much Stamina as they lost (you don't benefit from the negative values of creatures below 13 Stamina). This effect can allow you to receive more than your maximum Stamina, but at the end of your next turn, it goes down to your maximum. You can't gain Stamina this way more than once per minute.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Pain Training,,,,,,,,
+,School:,Blood Magic,,,,,,Level:,5
+,Focus:,"A small ""X"" scar on your pubis",,,,,,Cost:,4
+,Defense:,6,Sorcery Score,,,,,,
+,"When you cast this spell then touch a one meter radius circle drawn on the ground, you enchant it. Until dusk, the circle faintly glows red. Any creature standing within it suffers immense pain, receiving 1+1D Morale damage each turn. It must make a Resolve defense against each turn to avoid writhing on the ground in pain. After a character loses a total of 20 Morale or more from continued exposure to this effect, they become numb, unable to feel pain. They are immune to pain related Morale loss or compulsive behavior and don't suffer penalties from level 1 limb Wounds. This effect lasts a number of weeks equal to your Sorcery Score plus their Resolve value.",,,,,,,,

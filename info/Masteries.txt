@@ -1,0 +1,540 @@
+﻿Basic Masteries
+Great Health
+Requirements: None.
+Effect: You gain 3 Maximum Health.
+Brains
+Effect: You gain 3 Maximum Health. When you roll dice to determine of Stun wounds should regress, you have one more chance out of three to succeed.
+Blood
+Effect: You gain 3 Maximum Health. You receive internal damage caused by low Health and you bleed out half as fast.
+Bones
+Effect: You gain 3 Maximum Health. You take half as much time to recovery from limb wounds. Magical effects converting healing into limb Wound reduction use a third less healing to do so.
+Ganglion
+Effect: You gain 3 Maximum Health. You gain +2 to all defenses against infections.
+
+
+Great Stamina
+Requirements: None.
+Effect: You gain 3 Maximum Stamina.
+Breath
+Effect: You gain 3 Maximum Stamina. Your base air capacity when deprived of breath is augmented by 6 turns (from 24 to 30) and actions still cost their normal Stamina cost when you are asphyxiating.
+Grit
+Effect: You gain 3 Maximum Stamina. When you use the Take a Breath action, you go back to half your Maximum Stamina plus your Resolve.
+Endurance
+Effect: You gain 3 Maximum Stamina. Double the duration of your access to Adrenalin.
+Metabolism
+Effect: You gain 3 Maximum Stamina. You need half as much food and drinks as most people.
+
+
+Great Morale
+Requirements: None.
+Effect: You gain 3 Maximum Morale.
+Wakeful
+Effect: You gain 3 Maximum Morale. Short nights make you recover as much as long nights.
+Rational
+Effect: You gain 3 Maximum Morale. Reduce by your Intellect the threshold at which you become demoralized.
+Introvert
+Effect: You gain 3 Maximum Morale. You may spend a full day with no interpersonal interaction, no physical work and no Morale loss to trigger your Holiday recovery even if you are not resting all day.
+Festive
+Effect: You gain 3 Maximum Morale. If your activities of the day would trigger your Holiday recovery, you may party and drink instead of sleep well and still receive the bonus, as long as you don’t lose Morale during that time.
+
+
+Driven
+Requirements: Resolve 4+.
+Effect: You may choose an additional Drive for your character.
+
+
+Aware
+Requirements: Vigilance 4+.
+Effect: You gain a +2 bonus to all Initiative rolls.
+
+
+Peaceful
+Requirements: Wisdom 4+.
+Effect: You have one less Trauma.
+
+
+Graceful
+Requirements: Agility 4+.
+Effect: You gain a +1 bonus to your Passive defense. (This may also augment Active defenses if they would become as low as your Passive defense.)
+
+
+Brutal
+Requirements: Strength 4+.
+Effect: The minimal damage of all melee attacks you make augments by 2 (unarmed attacks go from 0 to 2 and armed attacks go from 2 to 4).
+
+
+Swift
+Requirements: Speed 4+.
+Effect: You are able to maintain your fast walking speed over long distances. You cover ground 25% quicker when doing long term travel if nothing or no one slows you down, and you can scout or do light foraging while on the move without slowing down a group going at normal speed.
+
+
+Towering
+Requirements: Size 4+.
+Effect: Most people instinctively avoid crossing your path, which negates the obstacle of crowds for you and those immediately following you. You gain a +2 bonus to all Influence rolls made to intimidate humans with less Size than you with the explicit or implicit threat of physical violence. This does not make the use of such threat affect targets unmoved by it.
+
+
+Commanding
+Requirements: Charisma 4+.
+Effect: You get a +1 bonus to Influence, Deceit and Persuasion rolls made to leverage actual or perceived authority on people. If that authority is real, you can’t roll less than 1 under your average.
+
+
+Brillant
+Requirements: Intellect 4+.
+Effect: You read twice as fast as normal good readers. You can count dozens of items in seconds and hundreds in one or two minutes. You near instantly memorize codes, lists, series of words and images for short term recall. You have an almost perfect sense of time and distances. This makes it very hard for you to get lost in most circumstances. You recognize any accent or language you’ve ever heard without a doubt regardless of if you speak that language or specific dialect. These effects all imply a good memory and quick information processing, but don’t give any advantage on actual Vigilance or observation skills, nor on the depth of your understanding of things.
+
+
+Nimble
+Requirements: Dexterity 4+.
+Effect: Once per turn, you may use a free Manipulate action with a value of 1.
+General Masteries
+Combat Masteries
+Dual Wielding
+Requirements: Fighting Level 1+.
+Effect: Reduce the attack and parry penalty of weapons in your secondary hand by 1 (bringing some to zero).
+Onslaught
+Effect: Once per round, when you spend a tempo attacking with a weapon in your primary hand, you may use the onslaught action (a quick action) immediately after. That action lets you attack once with each other weapon you are wielding at normal Stamina cost.
+Paired Riposte
+Effect: When you parry with a weapon and your opponent greatly fails their attack, you may use any weapon you are currently wielding for the counterattack. If you choose to counterattack with another weapon than the weapon that parried, you gain +1 to the attack.
+
+
+Flurry
+Requirements: Fighting Level 1+.
+Effect: You can use the flurry action even with weapons without the light property.
+Overwhelming Flurry
+Effect: When you use a flurry action to deal at least three attacks on a single target, that target will trigger a reaction attack from you any time they start moving or attack another creature than you while they are within your range until your next turn. These reaction attacks do not interfere with your ability to use the protect reaction when allies are attacked.
+Rampaging Flurry
+Effect: When you use a flurry action, you can attack multiple targets. Furthermore, if you have not used your free quick action of the turn, you may use it to make a step action between your attacks.
+Raging Flurry
+Effect: When you use a flurry action, if your first attack of the flurry is a wild strike, you can make other wild strikes within this flurry at the cost of normal strikes.
+
+
+Guardian
+Requirements: Fighting Level 1+.
+Effect: When you use the protect action on a creature that uses a proactive defense, they may use your Fighting score instead of theirs if it is higher. Furthermore, you may use protect on creatures that are not within your range if their attacker is.
+Retaliation
+Effect: When you use a protect action and the opponent fails their attack, they trigger a free reaction attack from you that can’t be parried with the weapon they used to attack. 
+Protector
+Effect: When you use the protect action, you can offer your Fighting to replace your target’s base defense if they do not use proactive defense (in addition to adding your weapon’s reach minus 1.)
+Shieldbearer
+Effect: You can use a protect action using the cost and defense associated with your shield rather than your weapon if you are adjacent to the creature you protect. You can protect creatures from ranged or blast attacks this way, but doing so forfeits the possibility to use the block defense against the same blast attack. Using your shield for protect actions is incompatible with the “Retaliation” counterattack.
+
+
+Shield Up
+Requirements: Fighting Level 1+.
+Effect: Your Raise Shield action counts as a quick action.
+Passive Shield
+Effect: If you are walking with your shield in hands outside of combat, you are considered having your shield Raised towards the direction you are walking and can take Block defenses even when surprised.
+
+
+Dirty Fighting
+Requirements: Fighting Level 1+.
+Effect: When you use any action that would allow you to make an attack during your turn (Onslaught, Flurry, etc.), you may replace any number of those attacks by Grapple actions or Feint actions.
+Swashbuckling
+Effect: When you use any action that would allow you to make an attack outside of your turn (reaction attacks, Parry defense, etc.), you may replace any number of those attacks by Grapple actions or Feint actions.
+Panache
+Effect: Whenever you make a Feint action against an enemy and that action is a success, you may use your Performance score rather than Fighting for all attacks against them until the end of the round. If you do so, any attack dealing piercing or cutting damage becomes Nimble. Any already Nimble attack doubles your Dexterity bonus damage. (This only works if you have enough Strength to wield that weapon with no penalty.)
+Jeu de Jambes
+Effect: You gain a new desired effect available to your feints: “This turn, you may move in and out of your target’s space without them being able to oppose or attack you for doing so until you act again.”
+
+
+Shoot into Melee
+Requirements: Aim Level 1+.
+Effect: When you shoot at an creature who takes cover behind another creature you do not want to shoot, you do not risk hitting them by accident if you’re not farther than twice the base range of your weapon.
+Shoot from Melee
+Effect: Loading a projectile weapon doesn’t trigger enemy reaction attacks. You may shoot at adjacent targets with no penalty and using your Aim score (rather than your Fighting score).
+
+
+Marksman’s Aim
+Requirements: Aim Level 1+.
+Effect: When you get 10 seconds or more (four tempos) to aim a shot at a slightly moving or immobile target, it has a maximum distance defense bonus of 2 and you treat all shots as short shots (you can choose the zone you target with great successes). This effect is extended until you or your target moves into an other space, or when you do something other than loading and shooting at them.
+Sniper’s Aim
+Effect: When you shoot at a creature after aiming for 10 seconds or more, great successes count as critical successes.
+Assassin’s Aim
+Effect: When you shoot at a creature after aiming for 10 seconds or more and you’re not farther than twice the base range of your weapon, you may treat your weapon as Nimble.
+Quicker Aim
+Effect: You may gain the benefits of a 10 seconds aim by spending two tempos of one turn aiming.
+
+
+Power Shot
+Requirements: Aim Level 1+.
+Effect: When you attack with a range weapon on a target that is within your weapon’s base range, you can choose to use a Power Shot action rather than a normal shot action. A Power Shot action costs 2 extra Stamina and add an extra bonus damage on successes, like melee two-handed weapon attacks do. This can’t apply on Nimble damage.
+
+
+Master Pugilist
+Requirements: Wrestling Level 1+.
+Effect: Your unarmed attacks deal 3 extra base damage and have a minimal damage of 2. All your limbs are considered primary weapons. You use the Parry defense with your empty arms.
+Open Hand Strike
+Effect: When you deal an unarmed strike with a hand and you hit a great success or higher, you can choose to immediately grab your target.
+Technical Fighter
+Effect: You may use your Agility rather than Strength to deal extra damage through unarmed strikes.
+
+
+Master Grappler
+Requirements: Wrestling Level 1+.
+Effect: Your Break Free action count as quick actions. You may use Agility or Strength to replace Strength or Size as the bonus attribute to any roll you make for wrestling actions or defenses.
+Bear Grab
+Effect: When you use a Tackle action, you may replace pushing your target with moving into their space and getting them prone with entering grappling. You may use your Wrestling score for Tackle actions.
+Deadly Wrestler
+Effect: You gain +1 to all rolls made to strangle your wrestling opponent and to all attack rolls made while wrestling. When you use the Strangle action successfully, reduce the air reserves of your target by 1 extra turn.
+Slippery Wrestler
+Effect: You gain +2 to all Break Free action rolls.
+
+
+Graceful Evasion
+Requirements: Acrobatics Level 1+, Fighting Level 1+.
+Effect: Your dodge defense gets a +1 bonus.
+Defensive Stance
+Effect: You can use the defensive stance action that costs twice your dodge defense’s cost in stamina and offers you free dodge defenses until your next turn.
+Fluid Movements
+Effect: Your dodge defense gets an additional +3 bonus against reaction attacks. 
+Roll with the Punches
+Effect: Once per round, when you make a dodge defense against a physical attack that is a regular ‘success’, add your Acrobatics score to your armour.
+
+
+Commander
+Requirements: Fighting Level 1+, Influence Level 1+.
+Effect: Once per turn, in combat, you may spend a tempo and 3 Stamina to assess the situation and give a command to an ally that can see and hear you and has not yet acted this round. During their turn, if they follow your instructions, they receive a +1 bonus to all rolls they make that turn that go toward following that order. Giving an order provokes reaction attacks.
+Tactician
+Effect: When you give a command, characters you command may immediately move 1 space toward their objective (normal movement restrictions apply). This effect does not apply to battlecries.
+        Tactical Fighter
+Effect: You can give commands to yourself. Giving commands doesn’t provoke reaction attacks. 
+Prudent Tactics
+Effect: When you give a command, characters you command never provoke reaction attacks while they take their free movement or follow your command. This effect does not apply to battlecries.
+Loud Command
+Effect: In a single command action, you can give your bonus to a number of allies equal to your Charisma. This costs 6 Stamina rather than 1. It has to be precisely the same order for everyone (like attacking the same enemy).
+Battlecry
+Effect: When you give a mass order during the first turn of battle, you can choose to shout a battlecry instead. The bonus the applies to every action your allies do on their turn. The bonus is kept until you are attack in melee or dealt damage by any means. The command bonus can’t apply multiple times simultaneously to a single character.
+
+
+
+
+Specialization Masteries
+Favored Melee Weapon : XXXXX
+Requirements: Fighting Level 1+.
+Effect: Choose a weapon type: Light Swords, Heavy Swords, Maces, Hoplon, etc. 
+You gain +1 to Parry/Block defenses, Feint actions and any Performance rolls made using that weapon. Drawing that weapon from its optimal resting position uses 1 less point of a Manipulate action.
+        Melee Weapon Specialization
+Effect: You gain +1 to all attacks, Grapple actions, and Tackle actions with the chosen weapon. In your hands, its base damage also gets +1.
+        Melee Weapon Mastery
+Effect: You gain +2 to all Lore rolls concerning weapons of that type, as well as +2 to all Crafting and Labour rolls made to repair, maintain or create such weapons. You gain +2 to all proactive defenses against attacks from that type of weapon and +2 to attacks against targets that use that type of weapon to Block or Parry.
+Favored Range Weapon : XXXXX
+Requirements: Aim Level 1+.
+Effect: Choose a weapon type: Bow, Long Sling, Javelin, etc. 
+Loading that type of weapon uses one less point of a Manipulate action. In your hands, its base damage also gets +1.
+        Range Weapon Specialization
+Effect: You gain +1 to all attacks with that weapon. You gain +2 to all Crafting or Labour rolls made to create ammunition for that weapon, if relevant.
+        Range Weapon Mastery
+Effect: You gain +2 to all Lore rolls concerning weapons of that type, as well as +2 to all Crafting and Labour rolls made to repair, maintain or create such weapons. You gain +2 to all proactive defenses against attacks from that type of weapon. You can always pinpoint the position of any hidden attacker from the trajectory of its projectile if they use that type of weapon. 
+Favored Terrain : XXXXX
+Requirements: Survival Level 1+ ; “Must have spent over three months adventuring in the chosen terrain or have had equivalent experience.”.
+Effect: Choose a terrain type: Plains, Hills, Mountains, Forest, Arctic, Swamp, Desert or Coast. 
+You gain +2 to all Survival rolls made in that type of terrain, to all other rolls made to travel or hide within that environment or Lore rolls about that environment. You never get lost in that type of terrain and get +2 to passive perception against creatures trying to hide from you.
+Terrain Guide
+Effect: By helping out and giving tips and tricks to travel companions, you may grant all the skill bonuses awarded by ‘Favored Terrain’ to up to one travel companion per Survival score. 
+
+
+Focused Studies : XXXXX
+Requirements: None.
+Effect: Choose a type of knowledge: Arcana (Fae, arcane magic, the Faerie, the Formless Void), Religion (Gods, divine magic, rituals, etc), History (History, politics, the ruling class, law), Engineering (warfare, architecture, sieges, city planning, mining, crafts), Nature (plants, animals, weather and ecosystems), Humanities (arts, philosophy, literature, psychology, languages, foreign cultures) or Crime (crime, outcasts, black markets, illicit activities). 
+You gain +2 to all Lore rolls made about that subject. You may also get +1 to some Crafting, Persuasion, Labour, Science, Survival, Taming or other related rolls.
+
+
+Arcane Tradition : XXXXX
+Requirements: Sorcery Level 1+.
+Effect: Choose a school of arcane magic: Noble Magic, Wild Magic, Blood Magic, Golden Magic or Primal Magic.
+You gain +2 to your effective Sorcery Level when calculating the effects of spells of this school. This effect applies after reductions when you cast a spell you don’t know. 
+
+
+
+
+Religion Masteries
+Endowment
+Requirements: Spirituality Level 1+.
+Effect: By praying for 15 minutes then touching a willing humanoid, you may endow them with a blessing you currently have active. For the blessing to be maintained, you must both have enough Morale to keep it active, you must both follow all the rules associated with it. While the creature has your blessing, you do not benefit from its effects. If the conditions are broken, the blessing is lost. Otherwise, the blessing is returned to you whenever the target decides to do so or after a predetermined duration (up to 24 hours per Wisdom point).
+
+
+Zealot
+Requirements: Spirituality Level 1+, “Being able to pray 60 minutes in a single day.”.
+Effect: By praying for 60 minutes, you may enter a state of zealous focus for 24 hours. While in zealous focus, you Wisdom drops to 1. During that time, you don’t lose blessings due to insufficient Morale (but can’t activate any new one if your Morale is insufficient). As long as you have at least one blessing active and are in zealous focus, you don’t receive the penalty for being demoralized. You may remain in zealous focus one day per Resolve point (by praying 60 minutes each day). When you come out of zealous focus, after your Wisdom comes back up, you receive 3+3D Morale damage. You must wait 24 hours before being able to regain zealous focus. You may choose to lose zealous focus at any point and you lose it automatically when you become apathetic or when you fall unconscious or fall asleep through non-natural means (natural sleep in zealous focus is light and partly conscious, keeping the focus active).
+Zealous Frenzy
+Effect: While in zealous focus, if you have at least one blessing active, you can make one wild strike each turn at the cost of a normal strike that gets an extra +1.
+        Resolute Smite
+Effect: When you use the special wild strike afforded to you by Zealous Frenzy, if your target could be construed as an enemy of one of your gods or heroes or if you are fighting a cause they would encourage, add your Resolve to the base damage of the attack.
+Prolonged Focus
+Effect: You can remain in zealous focus twice as long.
+Zealous Conviction
+Effect: While in zealous focus, you gain +2 to Resolve (this doesn’t affect the duration of the focus).
+Unyielding Focus
+Effect: While in zealous focus, you are immune to mental magic effects that are resisted with Resolve.
+Divine Voice
+Effect: When in zealous focus, you can speak in the voice of one of your gods, gaining a +4 bonus to an Influence roll that this god would approve of. This bonus goes to +6 if it targets followers of that god. (This effect does not negate the loss of Influence score from the lowering of your Wisdom.)
+
+
+Humble Request
+Requirements: Spirituality Level 1+.
+Effect: When you are praying to acquire a blessing, you may sacrifice an active blessing of equal or larger Morale requirement to divide the praying time needed by 2.
+Miraculous Request
+Effect: When you are praying to acquire a blessing, after 60 minutes of prayer, you may sacrifice any number of active blessings and immediately activate any number of new blessings of equivalent or lower total Morale requirement. You must be in a consecrated place that allows the activation of all the new blessings for this effect to work and, as always, must have sufficient Morale.
+        Rapid Request
+Effect: You may use the effect of “Fluid Blessings” after only 15 minutes of prayer.
+        Harmonious Request
+Effect: You can pray for your blessings within a consecrated area for any of your Gods as if they were all allied gods.
+
+
+Ritualist
+Requirements: Spirituality Level 1+.
+Effect: When you make Spirituality rolls to perform rituals, consecrate grounds or petition a god for guidance, you gain +1 to the roll. At the start of the prayer, you may also choose to accept 2+2D Morale damage to shorten the duration of the prayer by half.
+Wise Ritualist
+Effect: When you perform rituals, consecrate grounds or petition a god for guidance, you get to add your Wisdom score to your roll (instead of the +1 from “Ritualist”). Once per ritual, you may accept 2+2D Morale damage to retry the roll.
+
+
+
+
+Profession Masteries
+Sailor
+Requirements: Labour Level 1+, “Having practiced as an apprentice for a month.”.
+Effect: You may use your Labour skill to complete or attempt complex tasks associated with sailing a ship. You gain +1 to Labour and Crafting rolls made to accomplish the simple tasks required to sail a ship and to rolls made to maintain or repair them. You also gain +1 to Lore rolls about ships, sailing and the sea and automatically know all the simple concrete information about ships. You don’t get sea sickness.
+Experienced Sailor
+Effect: You know all things generally known by sailors and gain +3, instead of +1, to Lore rolls about the sea, ships, pirates and other sea or port town based rumours. You gain +3 instead of +1 to rolls made to sail a ship, including for complex tasks. You never get penalties to fighting or trying physical tasks on a sailing ship, regardless of the weather.
+
+
+Smith
+Requirements: Labour Level 1+, “Having practiced as an apprentice for a month.”.
+Effect: You can use your Labour and Crafting skills to work a forge and repair, maintain and create metal items. Double the benefits you offer as an assistant. You know all basic knowledge about metalworking and get +2 to Lore rolls on less basic knowledge on those subjects.
+Experienced Smith
+Effect: You gain +2 to all Labour and Crafting rolls made to work metal. You know most information about metal items and metalworking. You can create intricate original designs when you work metal and may attempt to create masterwork versions of items that can be upgraded in that manner.
+
+
+Poet
+Requirements: Influence Level 1+.
+Effect: You know some number of plays, songs, poems, epic poems or stories by heart. You gain +2 to all Influence rolls made to perform those forms of artistic expressions. You learn recited text by heart three times as fast as normal people, enunciate perfectly and can imitate the native accent of any language or dialect you speak as though it were your own. You instantly recognise good or bad performance without the need of a Lore roll. You gain +1 to Deceit rolls made to impersonate a character or person on top of losing the penalty for inappropriate accent.
+Actor
+Effect: You gain a extra +1 to rolls made to perform plays or songs. Your voice reaches twice as far away and can be heard through most noise. You can sing for twice as long. You know most things about the world of stage performance, actors and singers. You gain +2 instead of +1 to rolls made to impersonate a character or person. You can memorize words in languages you don’t understand and repeat them flawlessly (but letting your accent show somewhat).
+Bard
+Effect: You gain an extra +1 to rolls made to perform poems and stories. You know most things about the world of poetry and epic stories, as well as knowing almost everything about important heroes and classic tales. You gain +2 to Deceit rolls made to tell a prolonged true story. You can improvise rhymes at normal speech speed. 
+
+
+Merchant
+Requirements: Persuasion Level 1+, “Having practiced as an apprentice for a month.”.
+Effect: You gain a +1 bonus to Persuasion rolls made to haggle for the price of things and a +2 bonus to Lore rolls concerning the trade world or the price of general and precious goods.
+Experienced Merchant
+Effect: You gain a +2 bonus to Persuasion rolls made to haggle for the price of things and you can automatically appraise the worth of luxury items and simple substances with no roll required.
+
+
+Farmer
+Requirements: Labour Level 1+, “Having practiced as an apprentice for a month.”.
+Effect: You know everything there is to know about farm animals and usual crops. You gain a +2 bonus to Science rolls made to diagnose illnesses in farm animals and plants and a +1 one bonus on other animals and plants. You also gain a +1 bonus to Labour rolls concerning farm work.
+
+
+Doctor
+Requirements: Science Level 1+, “Having practiced as an apprentice for a month.”.
+Effect: You gain a +1 bonus to Science rolls made to diagnose and treat human illnesses. You also gain a +1 bonus to Science and Crafting rolls made to stabilize and close human Wounds. These bonuses don’t apply to yourself or to creating remedies, only choosing them.
+Army Doctor
+Effect: You gain an extra +1 to Crafting rolls made to close open wounds. The bonuses of “Doctor” apply even when working on yourself (but the +2 to difficulty remains). When you are trying to close an open Wound, you may make the secondary stabilization roll to stop the bleeding yourself with no penalty (rather than requiring assistance from a second person). When you finish trying to stabilize a Wound, you immediately realize if you failed. 
+Pathologist
+Effect: Gain an extra +2 bonus to Science rolls made to diagnose and treat illnesses and gain a +3 bonuses made to diagnose and treat poisons.
+
+
+Apothecary
+Requirements: Science Level 1+, “Having practiced as an apprentice for a month.”.
+Effect: You gain a +2 bonus to Science, Lore or Survival rolls made to use, find or recognise ingredients to create remedies, cures, antidotes, poisons and other potions. You can fully reverse engineer a potion by looking, touching and smelling it with a Science roll equal to the highest difficulty roll necessary to make it.
+Custom Recipes
+Effect: Whenever you prepare a concoction of some kind and one ingredient is missing, you are able to replace it with another (chosen by the GM) with no loss of effectiveness. In some very specific cases, key ingredients can only be replaced by costlier and rarer substances.
+Brewer
+Requirements: Science Level 1+, “Having practiced as an apprentice for a month.”.
+Effect: You can use your Science skills to create all sorts of alcohol from the right ingredients. You gain +1 to all Labour rolls associated with creating that alcohol. You know almost everything there is to know about alcohol and alcohol making. You can identify good and bad alcohol or alcohol that has been tampered with on taste. You gain a +2 bonus to Lore rolls about the alcohol trade world. You have a virtual +1 Size bonus to calculate the effects of alcohol on yourself.
+
+
+Tailor
+Requirements: Crafting 1+, “Having practiced as an apprentice for a month.”.
+Effect: You can use your Crafting skill to create clothes and other complex textile products from basic materials (normally, you could only create the more basic items this way or repair or modify existing ones). You gain a +2 bonus to all Crafting rolls involving textile. You know almost everything there is to know about fabrics and clothes and can recognise fabric or clothes quality automatically.
+
+
+Guard
+Requirements: “Having practiced as an apprentice for a month.”.
+Effect: When you stand watch, double the duration you are able to stay alert. You gain a +2 bonus to Search rolls made to find hidden objects on a person (living or dead) and to your Vigilance defenses against people trying to blend in a crowd. You remember faces exceptionally well. You gain a +1 bonus to Influence rolls made to detect imminent violent action.
+Enforcer
+Effect: You gain a +1 bonus to Influence rolls made to compel characters to interrupt their behavior, to Labour rolls made to break down doors and to all rolls made to prevent a character from passing through your space.
+Investigator
+Effect: When you search an area or a creature’s body, the difficulty of noticing useful information and clues (rather than items or secret mechanisms) is reduced by 2. You can use your Interrogation score instead of your Influence score when you try to make someone confess a lie or an action. Your bonus to Influence rolls made to detect imminent violent actions from “Guard” is extended to any intent of violent action.
+
+
+Makeup Artist
+Requirements: Crafting Level 1+.
+Effect: You gain a +3 bonus to all Crafting rolls made to apply makeup on someone, including yourself.
+
+
+Sculptor
+Requirements: Spirituality Level 1+
+Effect: When you make Spirituality rolls to perform rituals, consecrate grounds or petition a god for guidance, you gain +1 to the roll. At the start of the prayer, you may also choose to accept 2+2D Morale damage to shorten the duration of the prayer by half.
+Wise Ritualist
+Effect: When you perform rituals, consecrate grounds or petition a god for guidance, you get to add your Wisdom score to your roll (instead of the +1 from “Ritualist”). Once per ritual, you may accept 2+2D Morale damage to retry the roll.
+
+
+Woodworker
+Requirements: Spirituality Level 1+
+Effect: When you make Spirituality rolls to perform rituals, consecrate grounds or petition a god for guidance, you gain +1 to the roll. At the start of the prayer, you may also choose to accept 2+2D Morale damage to shorten the duration of the prayer by half.
+Wise Ritualist
+Effect: When you perform rituals, consecrate grounds or petition a god for guidance, you get to add your Wisdom score to your roll (instead of the +1 from “Ritualist”). Once per ritual, you may accept 2+2D Morale damage to retry the roll.
+
+
+Engineer
+Requirements: Spirituality Level 1+
+Effect: When you make Spirituality rolls to perform rituals, consecrate grounds or petition a god for guidance, you gain +1 to the roll. At the start of the prayer, you may also choose to accept 2+2D Morale damage to shorten the duration of the prayer by half.
+Wise Ritualist
+Effect: When you perform rituals, consecrate grounds or petition a god for guidance, you get to add your Wisdom score to your roll (instead of the +1 from “Ritualist”). Once per ritual, you may accept 2+2D Morale damage to retry the roll.
+
+
+Painter
+Requirements: Spirituality Level 1+
+Effect: When you make Spirituality rolls to perform rituals, consecrate grounds or petition a god for guidance, you gain +1 to the roll. At the start of the prayer, you may also choose to accept 2+2D Morale damage to shorten the duration of the prayer by half.
+Wise Ritualist
+Effect: When you perform rituals, consecrate grounds or petition a god for guidance, you get to add your Wisdom score to your roll (instead of the +1 from “Ritualist”). Once per ritual, you may accept 2+2D Morale damage to retry the roll.
+
+
+Adventure Masteries
+Advanced Swimmer
+Requirements: Athletics Level 1+.
+Effect: You gain +2 to all Athletics rolls made to swim. Your swimming related actions don’t cost double when you are low on air. All penalties you get for take actions underwater are reduced by 1.
+
+
+Advanced Climber
+Requirements: Athletics Level 1+.
+Effect: You gain +2 to all Athletics rolls made to climb. When you help someone preparing for a climb, they also gain that bonus (if they don’t already have it).
+
+
+Stealth Leader
+Requirements: Stealth Level 1+.
+Effect: When you guide a group of other people not greater than your Vigilance, you may help them be quiet by showing them the way at the cost of an additional 25% movement speed reduction. When you do, you can always choose to make the Stealth rolls for the group and any potentially loud physical action you have to take before the group (such as Climbing) has its difficulty reduced by 1 if you had a great success or higher. 
+
+
+Trap Finder
+Requirements: Search Level 1+.
+Effect: When you search a room, you gain the benefits of a cautious search without spending additional time. The difficulty of finding traps and secret mechanisms is reduced by 1.
+Trap Dodger
+Effect: You always have access to proactive defenses against traps. If you are willing and able to shout, you offer that protection to all allies within 8 meters while you are looking at what they are doing.
+
+
+Beast Master
+Requirements: Taming Level 1+.
+Effect: You can give an order to an animal that only takes one tempo to give as a quick action. As long as you succeed on your orders, you may play animals that are “Loyal” to you as your own character in combat. Your GM may veto certain actions that would go against the animal’s self preservation instincts or require an understanding of the situation they could not possibly have.
+Pet Parent
+Effect: You can calm a tamed animal as a quick action. You give +2 to your pets against fear or emotion manipulating effects when you are 6 meters or less away from them.
+Contingency Conditioning
+Effect: In the time it would take to upgrade your pet’s disposition, you may teach a specific contingency to a loyal animal. This means they will receive a specific order from you (normal roll required) whenever some event happens without any action from you, or without you being present. These can include contingent orders such as: “When I fall on the ground, bring me my potion from the cart”, “When I start fighting, flee for 15 minutes then come back” or “When you sense this specific smell, bark”. An animal can know up to one contingent order per Intellect point.
+
+
+Pickpocket
+Requirements: Performance Level 1+, Stealth Level 1+.
+Effect: You can use your Performance skill to pick the pockets of unsuspecting targets, whether they know you are there or not. Normally, picking a pocket requires a creature to have no idea of your presence. You gain +1 to Performance rolls made to subtly pocket items that are or are not on someone else’s person.
+
+
+Acrobatic Jumper
+Requirements: Running Level 1+, Acrobatics Level 1+.
+Effect: You cross an extra meter with each long jump you make. You gain a bonus of +2 to all Acrobatics rolls made to do tricks in the air or to land safely from a jump that you anticipated.
+
+
+Lockpicking
+Requirements: Crafting Level 1+.
+Effect: With the right tools, you can use your Crafting skill to attempt to pick locks and disarm other similar mechanisms.
+Masterful Lockpicking
+Effect: You gain a +2 bonus to all Crafting rolls made to pick locks or disarm mechanisms. You can attempt to do so even without specialized tools, by taking a -2 penalty.
+
+
+Formal Education
+Requirements: Lore Level 1+, “Having spent two months receiving academic training.”
+Effect: You can never roll less than 1 under your average when make Lore rolls.
+
+
+Rhetorics
+Requirements: Lore Level 1+, Persuasion Level 1+.
+Effect: You gain a +1 bonus to all Persuasion rolls against highly educated people. You gain a +1 bonus to all Persuasion rolls when you had 30 minutes or more to prepare your argumentative structure.
+Sophistics
+Effect: When you had 30 minutes or more to prepare your argumentative structure, you get to use your Persuasion, Deceit and Influence scores interchangeably until someone calls you out. 
+Seductive
+Requirements: None.
+Effect: When.
+Advancement
+Effect: When.
+
+
+Empathetic
+Requirements: None.
+Effect: When.
+Advancement
+Effect: When.
+ Helonian Masteries
+Hoplite
+Requirements: ‘Shield Up’.
+Effect: When you use the Raise Shield action, up to two adjacent creatures get +1 to all defenses until your next turn as long as they stay adjacent to you. No matter how many times you use Raise Shield, you can’t help more than two characters at a time this way nor add the bonus more than once to a single character.
+Raise Spear
+Effect: When an enemy attacks you from an angle you covered with a Raise Shield, if you are wielding a spear, you can make a reaction attack against them.
+
+
+Gladiator
+Requirements: Fighting Level 1+, Wrestling Level 1+.
+Effect: During your turn, when a non-wild attack you make would deal more damage than your target has Health remaining, you may choose to offer them the possibility of dropping to their knees and submitting to you. If they don’t take it, you may deal your damage as normal. When a creature has submitted to you, you keep your weapon arm busy but may, at any point, as a reaction, spend 1 Stamina to deal the equivalent of a critically successful attack to the Chest that ignores armour to them. This reaction attack happens before anything else. You can’t make a creature of a larger size category submit, and you can’t make a creature submit with weapons that have a minimum damage of less than 2.
+Classical Type
+Effect: When you fight with a light sword and a buckler, if you already landed two successful attacks with the sword on a single enemy, you can use a Tackle maneuver with the shield as a quick action. You gain a +2 bonus to that Maneuver’s roll.
+Barbarian Type
+Effect: When you fight with two battle axes, if one of your axe has hooked a limb or held item of your opponent, all successful attacks you make against them with the other one are upgraded to ‘great successes’ and have Impact. When you use an axe to hook your opponent, if the action succeeds enough to offer you a ‘free pull action’, you may replace it by an attack with the other axe (by paying its Stamina cost).
+Skirmisher Type
+Effect: When you fight with javelins, you may use your Fighting skill instead of Aim for all attacks with javelins on targets within your weapon’s base range. You may use the Feint maneuver with a javelin at that distance. It throws the javelin.
+Crusher Type
+Effect: When you fight with a maul, you may spend two tempos instead of one to deal an attack of greater power. That attack can be a normal or wild strike, but in addition to its normal effects, you may add your Strength in extra damage an extra time and creatures of human size category and lower are pushed back 2 meters on a hit. Creatures with less Strength than you who Parry or Block this attack drop the tool used to do it.
+Jhepsite Type
+Effect: When you fight with a heavy sword and nothing in your second hand, you can use your second hand to push your attacks to spend Stamina on attacks as if your weapon was wielded by your second hand, while suffering no second hand penalty or needing to spend actions to switch hands.
+
+
+
+
+Skirmisher 
+Requirements: Aim Level 1+.
+Effect: When you have a loaded range weapon, once per turn, you can take the “ready shot” action for one tempo, selecting a specific target (that you don’t need to see). Until the end of the round, you can take one reaction shot against them at any moment.
+Harassing Shot
+Effect: After you take a shot at a creature during another creature’s turn, your target loses 1 to all defenses during that turn (but not for the whole round). 
+Disabling Shot
+Effect: After you take a shot at a creature while it is using a move or dash action and it is a success or greater, your target must make a target Acrobatics roll to avoid falling prone and losing their remaining movement after moving a single space. The base difficulty of the roll is 3. It goes up by 2 if you hit a leg. It goes up by 2 if your target is moving away from you. It goes up by 2 if they are dashing.
+Run and Shoot
+Effect: Whenever you take a shot with a range weapon, you can move 1 space. That movement can happen before or after the attack.
+Full Body Throw
+Effect: When you take a shot with a javelin or short sling and you use your free movement space to move toward your target, you can add your Speed or Strength to your damage of full hits.
+
+
+Myth Keeper
+Requirements: ‘Focused Studies: Religion’, Spirituality Level 1+.
+Effect: You know all the classical mythical stories of Helos by heart and get an extra bonus of +3 to Lore rolls about the less known ones. You know the location and powers of most known heroic relics and you get the same +3 to Lore rolls when trying to know about a specific obscure hero or relic.
+Champion of All Heroes
+Effect: Becoming ‘Champion’ of a hero only requires you 1 spiritual bond spent, rather than the normal 2.
+Servant of All Gods
+Effect: You can spend 1 or drop spiritual bond into the link ‘Servant of All Gods’ by praying 1 hour at any actual temple. While you are bonded to this link, you can perform rituals link an Acolyte of the ten major Helonian deities.
+
+
+
+
+Below are the five most common Philosophy masteries. You can’t have more than one Philosophy Mastery at a time, but after the normal training time, you may exchange your Philosophies without spending EXP.
+
+
+Philosophy: Fatalism
+Requirements: Lore Level 1+.
+Effect: You know Fatalist philosophers and adhere to their ideas of learning to accept without judgement the inevitable parts of life and the self to find peace. Other Fatalists usually have a positive reaction to your philosophy. While you are demoralized, reduce all non-magical Morale damage you receive that is lower than your Wisdom by 1. 
+
+
+Philosophy: Sensualism
+Requirements: Lore Level 1+.
+Effect: You know Sensualist philosophers and adhere to their ideas of actively looking for already present joy and beauty in the word as the fastest way to happiness. Other Sensualists usually have a positive reaction to your philosophy. Whenever you live a clearly distinct new positive or interesting experience for the first time, you gain Morale equal to your Vigilance minus 1. This effect can’t happen more than once a week.
+
+
+Philosophy: Communalist
+Requirements: Lore Level 1+.
+Effect: You know Communalist philosophers and adhere to their ideas of finding your place in your community, respecting its order and striving to create good relations and mutual help with your neighbours of all walks of life. Other Communalists usually have a positive reaction to your philosophy. You may designate one person other than yourself per point of Charisma minus 1 as your philosophical community. While you are present with one of them, if both implicitly consent, you can take the drawbacks of their demoralized status in their place or have them take yours. You change this state by spending 5 seconds offering Morale support or receiving it, or it ends when you leave the presence of each other for more than 30 seconds. You can change your community once per month.
+
+
+Philosophy: Immaterialism
+Requirements: Lore Level 1+.
+Effect: You know Immaterialist philosophers and adhere to their ideas of understanding the world in terms of the essence and the mind that interacts with it rather than the material and the mundane. Other Immaterialists usually have a positive reaction to your philosophy. Whenever you would make a Wisdom or Resolve defense against a difficulty you know intimately (against social pressure from a character you know well, against a spell you know, against a type of challenge you’ve encountered many times before), you can add your Intellect minus 1 to your defense at the cost of 2+2D Morale damage.
+
+
+Philosophy: Virtualism
+Requirements: Lore Level 1+.
+Effect: You know Virtualist philosophers and adhere to their ideas of striving to embody virtue in all its forms and strive for perpetual self-improvement. Other Virtualists usually have a positive reaction to your philosophy. Add your Resolve minus 1 to your Intellect to determine the time you need to practice new skills before acquiring them.
