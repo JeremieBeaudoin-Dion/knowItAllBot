@@ -6,7 +6,7 @@ import infoFinder
 TOKEN = '####'
 
 client = discord.Client()
-
+DISCORD_MAX_NUM_CHAR = 2000
 
 @client.event
 async def on_message(message):
@@ -20,7 +20,11 @@ async def on_message(message):
         embed = discord.Embed(color=0xDC4806)
         embed.add_field(name="Bot Commands",
                         value="Type `-hello` for a greeting \n"
-                              "Type `-X` to know more about X", inline=False)
+                              "Type `-X` to know more about X\n"
+                              "When searching for content, I will try to find all the words you "
+                              "seperately put in as search criterias. If you want a specific set "
+                              "of words, add the `\"` in front and after it.\n"
+                              "Example: -\"armor - full\"", inline=False)
 
         await client.send_message(message.channel, embed=embed)
 
@@ -33,12 +37,10 @@ async def on_message(message):
 
         wholemsg = infoFinder.get_info(content)
 
-        for paragraph in wholemsg:
-            if len(paragraph) < 2000:
-                await client.send_message(message.channel, paragraph)
+        await send_information(message, wholemsg)
 
     elif content_lowercase.startswith('-'):
-        content = message.content.replace("-", "")
+        content = message.content.replace("-", "", 1)
 
         wholemsg = infoFinder.get_info(content)
 
@@ -47,9 +49,16 @@ async def on_message(message):
                                                        "Could you be more precise?\n"
                                                        "Or, if that's really what you want, type `-GETALL X`")
         else:
-            for paragraph in wholemsg:
-                if len(paragraph) < 2000:
-                    await client.send_message(message.channel, paragraph)
+            await send_information(message, wholemsg)
+
+
+async def send_information(message, information):
+    for paragraph in information:
+        while len(paragraph) > (DISCORD_MAX_NUM_CHAR-1):
+            firstpart, paragraph = paragraph[:DISCORD_MAX_NUM_CHAR-1], paragraph[DISCORD_MAX_NUM_CHAR:]
+            await client.send_message(message.channel, firstpart)
+
+        await client.send_message(message.channel, paragraph)
 
 
 @client.event
